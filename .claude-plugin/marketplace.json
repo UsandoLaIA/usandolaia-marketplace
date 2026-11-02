@@ -1,0 +1,12 @@
+{
+  "name": "usandolaia",
+  "description": "Plugins de Usando la IA para el equipo",
+  "owner": { "name": "Usando la IA" },
+  "plugins": [
+    {
+      "name": "affine-equipo",
+      "source": "./plugins/affine-equipo",
+      "description": "Conecta Claude Code con el AFFiNE del equipo (affine.usandolaia.com) y las convenciones de uso."
+    }
+  ]
+}

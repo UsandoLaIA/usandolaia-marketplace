@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "affine": {
+      "command": "affine-mcp",
+      "env": {
+        "AFFINE_BASE_URL": "https://affine.usandolaia.com",
+        "AFFINE_TOOL_PROFILE": "full",
+        "AFFINE_DISABLED_GROUPS": "admin",
+        "AFFINE_WS_ACK_TIMEOUT_MS": "60000"
+      }
+    }
+  }
+}
